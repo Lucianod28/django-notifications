@@ -7,7 +7,6 @@
   - Dropped support for Django < 4.2
   - Dropped support for Python < 3.9
   - Fixed distutils deprecation
-  - Updated GitHub actions workflow to use Ubuntu 22.04 image
 
 ## 1.8.3
 
